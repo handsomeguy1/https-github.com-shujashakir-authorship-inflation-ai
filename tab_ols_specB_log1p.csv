@@ -1,0 +1,6 @@
+term,coef,pval
+post2021,0.387,0.9196
+post2021:C(field_group)[T.Medical],-0.16,0.9779
+post2021:C(field_group)[T.Other],-0.204,0.9716
+post2021:C(field_group)[T.STEM],-0.376,0.9479
+post2021:C(field_group)[T.Social],-0.682,0.9056
