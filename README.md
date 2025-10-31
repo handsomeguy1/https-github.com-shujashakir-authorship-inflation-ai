@@ -27,7 +27,7 @@ Robustness checks included log-transformation and top-coded author counts (cap =
 
 ### Citation
 - If you use this dataset or code, please cite as:
-Shakir, S. (2025). When Collaboration Becomes Currency: The Paradox of Authorship Inflation in the AI Age. [GitHub Repository]. https://github.com/shujashakir/authorship-inflation-ai
+Shakir, S. (2025). When Collaboration Becomes Currency: The Paradox of Authorship Inflation in the AI Age. https://github.com/shujashakir/authorship-inflation-ai
 
 ### License
 - Released under the MIT License.
