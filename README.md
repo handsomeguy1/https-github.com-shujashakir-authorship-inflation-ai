@@ -110,7 +110,7 @@ All outputs are saved automatically to the working directory on completion.
 2. Growth is concentrated in the upper tail: median team size remained stable at 6–8 while the 90th percentile nearly tripled (26 to 65).
 3. Three distinct collaboration regimes are identified: Industrial-Scale Medicine (NEJM), Balanced Big Science (Science/NAR), and Selective Collaboration (Nature Communications).
 4. Social Sciences show no meaningful post-2021 shift (Δ = −0.35, 95% CI [−2.67, 2.46]), suggesting epistemic culture functions as a buffer against inflationary pressure.
-5. Inflationary norms are spreading beyond elite venues to AI conference proceedings and broader open-access outlets — consistent with a prestige cascade.
+5. Inflationary norms are spreading beyond elite venues to AI conference proceedings and broader open-access outlets, consistent with a prestige cascade.
 
 ---
 
