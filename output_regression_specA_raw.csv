@@ -1,5 +1,0 @@
-Specification,Term,Coefficient,p-value,Significant
-A: Raw counts,post2021,0.7309,0.6421,False
-A: Raw counts,post2021:C(field_group)[T.Medical],7.1714,0.0218,True
-A: Raw counts,post2021:C(field_group)[T.Multidisciplinary],9.338,0.0001,True
-A: Raw counts,post2021:C(field_group)[T.STEM],5.8239,0.0122,True
