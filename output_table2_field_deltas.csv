@@ -1,5 +1,0 @@
-Field,n (pre),n (post),Mean (pre),Mean (post),Delta,95% CI,Reliable?
-Medical,625,111,21.78,29.68,7.9,"[2.97, 13.34]",Yes
-Multidisciplinary,2319,309,12.81,22.88,10.07,"[6.85, 13.39]",Yes
-STEM,1586,182,8.2,14.75,6.55,"[3.37, 10.22]",Yes
-Social,174,23,4.05,4.78,0.73,"[-2.03, 3.83]",No (spans zero)
