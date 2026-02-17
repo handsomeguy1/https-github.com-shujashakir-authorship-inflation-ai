@@ -1,0 +1,5 @@
+Specification,Term,Coefficient,p-value,Significant
+C: Top-coded at 50,post2021,1.0182,0.4959,False
+C: Top-coded at 50,post2021:C(field_group)[T.Medical],4.0548,0.0638,False
+C: Top-coded at 50,post2021:C(field_group)[T.Multidisciplinary],5.7502,0.0014,True
+C: Top-coded at 50,post2021:C(field_group)[T.STEM],3.3896,0.059,False

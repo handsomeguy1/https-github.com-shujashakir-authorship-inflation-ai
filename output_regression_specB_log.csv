@@ -1,0 +1,5 @@
+Specification,Term,Coefficient,p-value,Significant
+B: Log-transformed,post2021,0.0453,0.7742,False
+B: Log-transformed,post2021:C(field_group)[T.Medical],0.252,0.1689,False
+B: Log-transformed,post2021:C(field_group)[T.Multidisciplinary],0.3515,0.0414,True
+B: Log-transformed,post2021:C(field_group)[T.STEM],0.2698,0.1167,False
